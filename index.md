@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Just an  another random guy trying to learn some stuff and gain some skills. Having Massive Interest in Android and tech.
+Just an  another random guy trying to discover the things which are unknown yesterday.
