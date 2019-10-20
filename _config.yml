@@ -3,7 +3,7 @@ title: ASHWATTHAMA
 subtitle: sANDERS
 email: sai404142@gmail.com
 description: ANDROID ENTHUSIAST | UX DESIGNER |CUSTOM ROM DEVELOPER
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: https://ashwatthamasanders.com # the base hostname & protocol for your site
 author:
 street_address: Alwal Hills
