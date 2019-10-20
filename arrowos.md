@@ -2,7 +2,7 @@
 title: Arrow OS for MotoG5S Plus
 layout: landing
 description: 'ArrowOS is an AOSP based project started with the aim of keeping things simple, clean and neat. We added just the right and mostly used stuff that will be actually USEFUL at the end of the day.'
-image: assets/images/arrowos.png
+image: assets/images/arrow.jpg
 nav-menu: true
 ---
 
