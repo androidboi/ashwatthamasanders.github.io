@@ -1,6 +1,6 @@
 ---
+title: Syberia-OS
 layout: landing
-title: Syberia OS
 description: 'Syberia OS is an Android Pie based operating system with some optimization and customization improvements'
 image: assets/images/syberia.png
 nav-menu: true
@@ -8,7 +8,8 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main">
-<!-- Arrow Links -->
+
+<!-- Syberia OS Links -->
 <section id="syberia">
         <div class="inner">
                 <header class="major">
