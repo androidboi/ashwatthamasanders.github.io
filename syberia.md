@@ -9,7 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 <!-- Arrow Links -->
-<section id="arrow">
+<section id="syberia">
         <div class="inner">
                 <header class="major">
                         <h2>Links :</h2>
